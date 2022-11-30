@@ -4,7 +4,7 @@
 
 int main()
 {
-    u32 Option = 0;
+    s32 Option = 0;
     while(1)
     {
         printf("\nPlease Choose an option:\n1. Add Entry\n2. Delete Entry\n3. Read Entry\n4. Get all IDs\n5. Check the existence of an ID\n6. Number of IDs\n7. Is database full?\n(Press -1 to exit)\n");
